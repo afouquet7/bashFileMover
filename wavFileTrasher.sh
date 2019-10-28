@@ -17,7 +17,7 @@
 # Error Log: Any errors or output associated with the script will be displayed in termianl=
 #==========================================================================================
 
-sudo find /Volumes/DgLdB_All_Mixes/ -name '.wav' -exec mv -t /Volumes/DgLdB_All_Mixes/.Trashes/ {} +
+sudo find /Volumes/PathName/ -name '.wav' -exec mv -t /Volumes/PathName/.Trashes/ {} +
 
 echo "your files have been moved!"
 
